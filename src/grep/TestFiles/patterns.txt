@@ -1,0 +1,8 @@
+test
+text
+number
+NUMBER
+symbol
+sy
+^tab
+end

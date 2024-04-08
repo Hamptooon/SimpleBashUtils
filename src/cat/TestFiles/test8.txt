@@ -1,0 +1,41 @@
+ 
+	number: 2. symbol - 
+	number: 3. symbol - 
+	number: 4. symbol - 
+	number: 5. symbol - 
+	number: 6. symbol - 
+	number: 7. symbol - 
+	number: 8. symbol - 
+	number: 9. symbol - 
+	number: 10. symbol - 	
+	number: 11. symbol - 
+
+	number: 12. symbol - 
+	number: 13. symbol - 
+	number: 14. symbol - 
+	number: 15. symbol - 
+	number: 16. symbol - 
+	number: 17. symbol - 
+	number: 18. symbol - 
+	number: 19. symbol -
+
+ 
+number: 2. symbol - 
+number: 3. symbol - 
+number: 4. symbol - 
+number: 5. symbol - 
+number: 6. symbol - 
+number: 7. symbol - 
+number: 8. symbol - 
+number: 9. symbol - 
+number: 10. symbol - 	
+number: 11. symbol - 
+
+number: 12. symbol - 
+number: 13. symbol - 
+number: 14. symbol - 
+number: 15. symbol - 
+number: 16. symbol - 
+number: 17. symbol - 
+number: 18. symbol - 
+number: 19. symbol -
